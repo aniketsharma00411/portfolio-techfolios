@@ -57,7 +57,7 @@
   "volunteer": [
     {
       "organization": "mlcpp",
-      "website": "http://manoa.hawaii.edu/reis",
+      "website": "https://github.com/mlcpp",
       "position": "Co-Founder",
       "startDate": "2020-09-01",
       "endDate": "Present",
@@ -71,17 +71,26 @@
   "education": [
     {
       "institution": "Indian Institute of Information Technology, Gwalior",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science",
       "studyType": "B. Tech.",
       "startDate": "2019-08-01",
       "endDate": "Present",
-      "gpa": "8.47",
+      "score": "8.47",
       "courses": [
         "Artificial Intelligence",
         "Data Structures and Algorithms",
         "Object Oriented Programming Language",
         "Software Engineering"
       ]
+    },
+    {
+      "institution": "Kulachi Hansraj Model School",
+      "area": "All India Senior School Certificate Examination",
+      "studyType": "",
+      "startDate": "2017-04-01",
+      "endDate": "2019-03-31",
+      "score": "88.8",
+      "courses": []
     }
   ],
   "awards": [
