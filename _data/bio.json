@@ -27,21 +27,90 @@
       }
     ]
   },
-  "interests": [
+  "work": [
     {
-      "name": "Artificial Intelligence",
-      "keywords": [
-        "AI",
-        "Machine Learning",
-        "Deep Learning"
+      "company": "cppsecrets.com",
+      "position": "Software Developer Intern",
+      "website": "",
+      "startDate": "2020-09-07",
+      "endDate": "2020-11-07",
+      "summary": "",
+      "highlights": [
+        "Created a YouTube Scrapper using Python selenium",
+        "Created US Election 2020 Prediction Model using Sentiment Analysis",
+        "Tested various projects including Fingerprint Recognition Model, Motion Detection Model and more"
       ]
     },
     {
-      "name": "Data Science",
-      "keywords": [
+      "company": "ecell, IIIT Gwalior",
+      "position": "Member-Freelancing Department",
+      "website": "",
+      "startDate": "2019-08-01",
+      "endDate": "2020-03-01",
+      "summary": "",
+      "highlights": [
+        "Attended E-Summit 2020, IIT Roorkee",
+        "Reached final round of Investor's Vista, IIT Roorkee"
       ]
     }
   ],
+  "volunteer": [
+    {
+      "organization": "mlcpp",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Co-Founder",
+      "startDate": "2020-09-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Designing, Programming, Testing and Benchmarking the Matrix library",
+        "Promoting the organization and its projects"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Indian Institute of Information Technology, Gwalior",
+      "area": "Computer Science (expected Spring, 2018)",
+      "studyType": "B. Tech.",
+      "startDate": "2019-08-01",
+      "endDate": "Present",
+      "gpa": "8.47",
+      "courses": [
+        "Artificial Intelligence",
+        "Data Structures and Algorithms",
+        "Object Oriented Programming Language",
+        "Software Engineering"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Google Hash Code 2021",
+      "date": "",
+      "awarder": "",
+      "summary": "Got a rank of 396 worldwide and 60 in India"
+    },
+    {
+      "title": "Hacksagon 2020",
+      "date": "",
+      "awarder": "IEEE Student Branch IIIT Gwalior",
+      "summary": "Created a model of an AQI monitor and reached final round of the competition"
+    },
+    {
+      "title": "HackerRank",
+      "date": "",
+      "awarder": "",
+      "summary": "Gold badges in Python and C++ and silver badge in Problem Solving"
+    }
+  ],
+  "publications": [{
+    "name": "",
+    "publisher": "",
+    "releaseDate": "",
+    "website": "",
+    "summary": ""
+  }],
   "skills": [
     {
       "name": "Languages and Frameworks",
@@ -67,89 +136,87 @@
       ]
     }
   ],
-  "education": [
+  "languages": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
+      "language": "English",
+      "fluency": "Full Professional Proficiency"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native or Bilingual Proficiency"
     }
   ],
-  "work": [
+  "interests": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+      "name": "Artificial Intelligence",
+      "keywords": [
+        "AI",
+        "Machine Learning",
+        "Deep Learning"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+      "name": "Data Science",
+      "keywords": [
       ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
     {
-      "name": "Available upon request",
+      "name": "",
       "reference": ""
     }
-  ]
+  ],
+  "projects": [
+    {
+      "name": "Matrix",
+      "description": "Scientific Computing library in/for C++",
+      "highlights": [],
+      "keywords": [],
+      "startDate": "2020-09-20",
+      "endDate": "Present",
+      "url": "github.com/mlcpp/Matrix",
+      "roles": [],
+      "entity": "",
+      "type": "C++ Library"
+    },
+    {
+      "name": "wikiHowUnofficialAPI",
+      "description": "Python package based API to extract data from wikiHow",
+      "highlights": [
+      "github.com/vigilant-umbrella/wikihowunofficialapi"
+      ],
+      "keywords": [],
+      "startDate": "2021-01-20",
+      "endDate": "2021-02-12",
+      "url": "pypi.org/project/wikihowunofficialapi/",
+      "roles": [],
+      "entity": "",
+      "type": "Python Module"
+    },
+    {
+      "name": "Signature Forgery Detection with One-shot Learning",
+      "description": "Signature Forgery Detection Model using Siamese Neural Network",
+      "highlights": [],
+      "keywords": [],
+      "startDate": "2020-12-08",
+      "endDate": "2021-01-31",
+      "url": "github.com/aniketsharma00411/one-shot-signature-forgery-detection",
+      "roles": [],
+      "entity": "",
+      "type": "Deep Learning Model"
+    },
+    {
+      "name": "alpha",
+      "description": "C++ Implementation of scikit-learn",
+      "highlights": [],
+      "keywords": [],
+      "startDate": "2020-09-08",
+      "endDate": "2020-11-30",
+      "url": "github.com/mlcpp/alpha",
+      "roles": [],
+      "entity": "",
+      "type": "C++ Library"
+    }
+  ],
 }
