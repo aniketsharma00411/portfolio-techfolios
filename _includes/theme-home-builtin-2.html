@@ -23,10 +23,12 @@
         {{ interest.name }}{% if forloop.last != true %}, {% endif %}
       {% endfor %}
     </p>
-    <p style="text-align: center">
+<!--     <p style="text-align: center"> -->
+    <p>
       {% include home-network-links.html %}
     </p>
-    <p style="text-align: center">
+<!--     <p style="text-align: center"> -->
+    <p>
       <a href="{{ site.baseurl}}/projects/">
         <button class="ui basic button">Projects ({{ num_projects }})</button>
       </a>
