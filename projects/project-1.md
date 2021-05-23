@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/webkriti-project.png
+image: images/webkriti-square.jpeg
 title: TechFest website
 permalink: projects/webkriti
 # All dates must be YYYY-MM-DD format!
